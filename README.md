@@ -12,7 +12,7 @@ All lab reports for the **Structured Programming Language (SPL)** course.
 | **Course Code** | CSE 102 |
 | **Instructor** | Shuvo Biswas |
 | **Semester** | Fall 2025 |
-| **Student** | MD. Sahab Al Rashid Siam |
+| **Student** | Md. Nure Arefin Siam |
 | **Department** | B.Sc. Engg. in CSE |
 
 ---
@@ -40,8 +40,8 @@ Each lab folder includes:
 ## 🛠 Tools Used
 
 - **Language:** C  
-- **Compiler:** Code::Blocks / GCC  
-- **Platform:** Windows / Linux  
+- **Compiler:** Code::Blocks 
+- **Platform:** Linux  
 
 ---
 
@@ -59,4 +59,4 @@ Feel free to fork or reference it for learning — but please give **proper cred
 
 ---
 
-© 2025 – *MD. Sahab Al Rashid Siam*
+© 2025 -"Md. Nure Arefin Siam"
